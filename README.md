@@ -55,8 +55,6 @@ The project uses the `employee_burnout_analysis-AI.xlsx` dataset containing comp
 employee burn out analysis/
 ├── employee_burnout_analysis.ipynb    # analysis notebook
 ├── employee_burnout_analysis-AI.xlsx  # Dataset
-├── employee burn rate prediction.pptx # Presentation slides
-├── SRM PD 1-1227-1174.pdf            # Project documentation
 └── README.md                          # This file
 ```
 
